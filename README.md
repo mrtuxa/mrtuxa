@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 🤝 I’m looking for help with **Linux, Windows, OS X**
+- 🤝 I’m looking for help with **Java**
 
 - 💬 Ask me about **linux**
 
