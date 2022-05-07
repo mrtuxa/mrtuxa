@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm mrtuxa</h1>
 
-<h3 align="center"> A Linux System Administrator from 🇩🇪 Germany </h3>
+<h3 align="center"> A Linux System Administrator from Germany 🇩🇪 </h3>
 
 
 
