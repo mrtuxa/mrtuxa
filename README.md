@@ -2,7 +2,7 @@
 
 <h3 align="center"> A Linux System Administrator from Germany </h3>
 
- 																						 <img src="https://komarev.com/ghpvc/?username=mrtuxa&label=Profile%20views&color=0e75b6&style=flat" alt="mrtuxa">
+ <img src="https://komarev.com/ghpvc/?username=mrtuxa&label=Profile%20views&color=0e75b6&style=flat" alt="mrtuxa">
 
 
 
