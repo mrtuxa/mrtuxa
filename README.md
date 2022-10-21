@@ -1,7 +1,7 @@
 # 💫 About Me:
-:round_pushpin: Daily Chill Out: dezentrale e.V.
-:handshake: Werde heute noch Teil des Leipziger Freifunk Netzes *https://freifunk-leipzig.de*
-:wave: Junior Developer
+:round_pushpin: Daily Chill Out: dezentrale e.V. \n
+:handshake: Werde heute noch Teil des Leipziger Freifunk Netzes *https://freifunk-leipzig.de* \n
+:wave: Junior Developer \n
 GNU/Linux an die Macht (außer Ubuntu)
 
 
