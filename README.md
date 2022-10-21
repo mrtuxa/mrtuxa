@@ -1,11 +1,9 @@
 # 💫 About Me:
-- 🔭 I’m currently working to get more coding experiences
+:round_pushpin: Daily Chill Out: dezentrale e.V.
+:handshake: Werde heute noch Teil des Leipziger Freifunk Netzes *https://freifunk-leipzig.de*
+:wave: Junior Developer
+GNU/Linux an die Macht (außer Ubuntu)
 
-- 🌱 I'm currently learning **Java**
-- 🤝 I'm looking for help with *Java*
-- 💬 Ask me about *Linux*
-- 👓 I'm currently work/program on the UNIX based system Mac OS Monterey
-- 📫 How to reach me **<a href="mailto:contact@mrtuxa.tech">contact@mrtuxa.tech</a>**
 
 
 # 💻 Tech Stack:
