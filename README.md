@@ -1,6 +1,6 @@
 # 💫 About Me:
 :round_pushpin: Daily Chill Out: dezentrale e.V. <br>
-:round_pushpin: Ausbildung `Fachinformatiker Anwendungsentwicklung`
+:round_pushpin: Ausbildung `Fachinformatiker Anwendungsentwicklung` <br />
 :handshake: Werde heute noch Teil des Leipziger Freifunk Netzes *https://freifunk-leipzig.de* <br>
 :wave: Junior Developer <br>
 GNU/Linux an die Macht (außer Ubuntu)
