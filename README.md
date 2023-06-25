@@ -1,10 +1,14 @@
-# 💫 About Me:
-:round_pushpin: Chill Out: dezentrale e.V. <br>
-:round_pushpin: Ausbildung `Fachinformatiker Anwendungsentwicklung` <br />
-:handshake: Werde heute noch Teil des Leipziger Freifunk Netzes *https://freifunk-leipzig.de* <br>
-:wave: Junior Developer <br>
+# 💫 About Me
+📍 Chill Out: dezentrale e.V.
+
+🤝 Werde heute noch Teil des Leipziger Freifunk Netzes *https://freifunk-leipzig.de* 
+
+👋 Junior Developer
+
 GNU/Linux an die Macht (außer Ubuntu)
 
+# Projects
+[windvn](https://git.lumen.sh/Fierelier/windvn)
 
 
 # 💻 Tech Stack:
@@ -32,5 +36,4 @@ GNU/Linux an die Macht (außer Ubuntu)
 <p align="center"><a href="https://www.buymeacoffee.com/mrtuxa"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mrtuxa" /></a><a href="https://ko-fi.com/mrtuxa"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="mrtuxa" /></a></p>
 
 
----
 [![](https://visitcount.itsvg.in/api?id=mrtuxa&icon=0&color=0)](https://visitcount.itsvg.in)
