@@ -1,5 +1,5 @@
 # 💫 About Me
-📍 Chill Out: dezentrale e.V.
+📍 Chill Out: Talent 2
 
 🤝 Werde heute noch Teil des Leipziger Freifunk Netzes *https://freifunk-leipzig.de* 
 
