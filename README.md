@@ -7,8 +7,7 @@
 
 GNU/Linux an die Macht (außer Ubuntu)
 
-# Projects
-[windvn](https://git.lumen.sh/Fierelier/windvn)
+![(https://raw.githubusercontent.com/mrtuxa/mrtuxa/ea2b49ce8630c04d89842ee6b469a754cb72d5e7/github-contribution-grid-snake-dark.svg)]
 
 
 # 💻 Tech Stack:
