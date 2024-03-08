@@ -7,7 +7,9 @@
 
 GNU/Linux an die Macht (außer Ubuntu)
 
-![(https://raw.githubusercontent.com/mrtuxa/mrtuxa/ea2b49ce8630c04d89842ee6b469a754cb72d5e7/github-contribution-grid-snake-dark.svg)]
+# my contributions
+
+![](https://raw.githubusercontent.com/mrtuxa/mrtuxa/20bbcbe39e53f468f7bf90b40b264f0d7c4180d4/github-contribution-grid-snake.svg)
 
 
 # 💻 Tech Stack:
