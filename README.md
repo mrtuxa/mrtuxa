@@ -1,7 +1,7 @@
 # 💫 About Me
 📍 Chill Out: Talent 2
 
-🤝 Werde heute noch Teil des Leipziger Freifunk Netzes *https://freifunk-leipzig.de* 
+🤝 Werde heute noch Teil des Freifunk Vogtland Netzes *[https://freifunk-leipzig.de](https://vogtland.freifunk.net/)* 
 
 👋 Junior Developer
 
