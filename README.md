@@ -1,7 +1,7 @@
 # 💫 About Me
-📍 Chill Out: Talent 2
+📍 Chill Out: BR 412
 
-🤝 Werde heute noch Teil des Freifunk Vogtland Netzes https://vogtland.freifunk.net/
+🤝 Werde heute noch Teil des Freifunk Hamburg Netzes https://hamburg.freifunk.net/
 
 👋 Junior Developer
 
