@@ -1,7 +1,7 @@
 # 💫 About Me
 📍 Chill Out: Talent 2
 
-🤝 Werde heute noch Teil des Freifunk Vogtland Netzes https://vogtland.freifunk.net/
+🤝 Werde heute noch Teil des Freifunk Berlin Netzes https://berlin.freifunk.net/
 
 👋 Junior Developer
 
